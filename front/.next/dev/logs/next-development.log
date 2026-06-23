@@ -1,0 +1,26 @@
+{"timestamp":"00:13:38.793","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Users\\dan02\\IdeaProjects\\p-14183-1\\front\\app'"}
+{"timestamp":"00:13:38.796","source":"Server","level":"ERROR","message":"⨯ \"unhandledRejection:\" Error: ENOENT: no such file or directory, scandir 'C:\\Users\\dan02\\IdeaProjects\\p-14183-1\\front\\app'"}
+{"timestamp":"00:13:38.799","source":"Server","level":"ERROR","message":"⨯ \"unhandledRejection: \" Error: ENOENT: no such file or directory, scandir 'C:\\Users\\dan02\\IdeaProjects\\p-14183-1\\front\\app'"}
+{"timestamp":"00:13:38.862","source":"Server","level":"ERROR","message":"⨯ PageNotFoundError: Cannot find module for page: route not found /_not-found/page"}
+{"timestamp":"00:13:41.880","source":"Server","level":"LOG","message":"○ Compiling /_error ..."}
+{"timestamp":"00:13:43.815","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Users\\dan02\\IdeaProjects\\p-14183-1\\front\\app'"}
+{"timestamp":"00:13:43.817","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Users\\dan02\\IdeaProjects\\p-14183-1\\front\\app'"}
+{"timestamp":"00:13:43.859","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Users\\dan02\\IdeaProjects\\p-14183-1\\front\\app'"}
+{"timestamp":"00:13:43.861","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Users\\dan02\\IdeaProjects\\p-14183-1\\front\\app'"}
+{"timestamp":"00:13:43.870","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Users\\dan02\\IdeaProjects\\p-14183-1\\front\\app'"}
+{"timestamp":"00:13:43.871","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Users\\dan02\\IdeaProjects\\p-14183-1\\front\\app'"}
+{"timestamp":"00:13:43.879","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Users\\dan02\\IdeaProjects\\p-14183-1\\front\\app'"}
+{"timestamp":"00:13:43.880","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Users\\dan02\\IdeaProjects\\p-14183-1\\front\\app'"}
+{"timestamp":"00:13:43.891","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Users\\dan02\\IdeaProjects\\p-14183-1\\front\\app'"}
+{"timestamp":"00:13:43.893","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Users\\dan02\\IdeaProjects\\p-14183-1\\front\\app'"}
+{"timestamp":"00:13:43.899","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Users\\dan02\\IdeaProjects\\p-14183-1\\front\\app'"}
+{"timestamp":"00:13:43.901","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Users\\dan02\\IdeaProjects\\p-14183-1\\front\\app'"}
+{"timestamp":"00:13:44.237","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, open 'C:\\Users\\dan02\\IdeaProjects\\p-14183-1\\front\\.next\\dev\\static\\development\\_buildManifest.js.tmp.0e91a3tfstv8'"}
+{"timestamp":"00:13:44.242","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir 'C:\\Users\\dan02\\IdeaProjects\\p-14183-1\\front\\app'"}
+{"timestamp":"00:13:51.090","source":"Server","level":"LOG","message":"✓ Compiled in 149ms"}
+{"timestamp":"00:13:52.569","source":"Server","level":"LOG","message":"✓ Compiled in 275ms"}
+{"timestamp":"00:13:52.857","source":"Server","level":"LOG","message":"✓ Compiled in 248ms"}
+{"timestamp":"00:13:53.024","source":"Server","level":"LOG","message":"✓ Compiled in 100ms"}
+{"timestamp":"00:13:53.618","source":"Server","level":"LOG","message":"✓ Compiled in 41ms"}
+{"timestamp":"00:13:54.205","source":"Server","level":"LOG","message":"✓ Compiled in 24ms"}
+{"timestamp":"00:13:58.456","source":"Server","level":"LOG","message":"✓ Compiled in 47ms"}
